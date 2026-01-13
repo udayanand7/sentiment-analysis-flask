@@ -11,7 +11,7 @@ The application analyzes user-provided text and predicts whether the sentiment i
 ## 🔗 Live Demo
 
 👉 [https://sentiment-analysis-flask-hw48.onrender.com/](https://sentiment-analysis-flask-hw48.onrender.com/)
-*(Replace this with your actual Render deployment URL)*
+
 
 ---
 
@@ -71,21 +71,9 @@ python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
 
----
 
-### 3️⃣ Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
 
----
-
-### 4️⃣ Run the Application
-
-```bash
-python app.py
-```
 
 ---
 
@@ -102,21 +90,7 @@ python app.py
 1. Push the project to GitHub
 2. Create a new **Web Service** on Render
 3. Connect your GitHub repository
-4. Configure the following commands:
 
-**Build Command**
-
-```bash
-pip install -r requirements.txt
-```
-
-**Start Command**
-
-```bash
-gunicorn app:app
-```
-
-5. Click **Deploy** 🎉
 
 ---
 
@@ -136,7 +110,7 @@ gunicorn
 
 ## 🚀 Future Improvements
 
-* Add REST API support
+
 * Improve UI using Bootstrap or React
 * Support multiple languages
 * Dockerize the application
@@ -150,9 +124,6 @@ Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -160,8 +131,11 @@ This project is licensed under the **MIT License**.
 
 **Your Name**
 GitHub: [https://github.com/udayanand7/sentiment-analysis-flask](https://github.com/udayanand7/sentiment-analysis-flask)
+
+---
 LinkedIn: [Uday Anand Angirekula | LinkedIn](https://www.linkedin.com/in/uday-anand-angirekula-3b4280376/)
 
 ---
 
 ⭐ If you like this project, please **star** the repository!
+
