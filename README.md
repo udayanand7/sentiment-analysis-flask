@@ -95,12 +95,12 @@ Feel free to fork this repository and submit a pull request.
 ## 👤 Author
 
 **Your Name**
-GitHub: [https://github.com/udayanand7/sentiment-analysis-flask](https://github.com/udayanand7/sentiment-analysis-flask)
----
+GitHub: [https://github.com/udayanand7/sentiment-analysis-flask](https://github.com/udayanand7/sentiment-analysis-flask) ---
 LinkedIn: [Uday Anand Angirekula | LinkedIn](https://www.linkedin.com/in/uday-anand-angirekula-3b4280376/)
 
 ---
 
 ⭐ If you like this project, please **star** the repository!
+
 
 
