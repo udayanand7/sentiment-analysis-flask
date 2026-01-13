@@ -35,41 +35,6 @@ The application analyzes user-provided text and predicts whether the sentiment i
 
 ---
 
-## 📂 Project Structure
-
-```
-sentiment-analysis-flask/
-│
-├── app.py                 # Main Flask application
-├── model.pkl              # Trained ML model
-├       
-├── requirements.txt       # Python dependencies
-├── templates/
-│   └── index.html         # Frontend UI
-├── static/
-│   └── style.css          # Styling
-└── README.md              # Project documentation
-```
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/udayanand7/sentiment-analysis-flask
-
-```
-
----
-
-### 2️⃣ Create a Virtual Environment (Optional)
-
-```bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-```
 
 
 
@@ -131,11 +96,11 @@ Feel free to fork this repository and submit a pull request.
 
 **Your Name**
 GitHub: [https://github.com/udayanand7/sentiment-analysis-flask](https://github.com/udayanand7/sentiment-analysis-flask)
-
 ---
 LinkedIn: [Uday Anand Angirekula | LinkedIn](https://www.linkedin.com/in/uday-anand-angirekula-3b4280376/)
 
 ---
 
 ⭐ If you like this project, please **star** the repository!
+
 
